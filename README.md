@@ -1,4 +1,4 @@
-# Movie Recommendation and Sharing Platform
+# Movie and User management 
 
 ## Project Introduction
 This project aims to create a movie recommendation and sharing platform where users can register and share information about various movies.
