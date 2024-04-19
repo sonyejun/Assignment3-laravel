@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col">
             <h1 class="display-2">
-                Update Student Profile
+                Update Movie Profile
             </h1>
         </div>
     </div>
