@@ -18,17 +18,17 @@ Laravel is considered a powerful and flexible framework for PHP development. It 
 
 ## Screen Shots
 - User Site
-<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/1a4411d2-d05c-4719-866f-f93dec95e40b">
+<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/90a1428b-bb67-442a-b2c8-387e3b76c688">
 
 <img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/ebaae7f7-a28b-4dc4-8736-f98863f202d8">
 
-<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/97792192-7fcf-436a-90f5-fa9b89f56453">
+<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/1f41a8b1-3fc3-47f4-9472-deb416b2d862">
 
 <img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/6bed45fc-3b94-409f-89ad-ba0b53f075b1">
 
-<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/54d29ddb-f0f6-4612-81e9-0c6d05761c46">
+<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/c649c222-bad4-4579-a4bd-d894993ba04f">
 
-<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/6f3060ad-87db-4a4c-86df-80eb34fccfb3">
+<img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/ad0ed6d6-9454-4733-bc13-282146d0cea9">
 
 - Guest Site
 <img width="1691" alt="image" src="https://github.com/sonyejun/Assignment3-laravel/assets/62229757/8f293e96-c85b-4bd1-82e0-ab98e6426fab">
