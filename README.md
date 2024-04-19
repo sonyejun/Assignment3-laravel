@@ -35,7 +35,7 @@ Laravel is considered a powerful and flexible framework for PHP development. It 
 
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/sonyejun/Assignment3-laravel.git`
 2. Install dependencies: `composer install`
 3. Configure database settings in the `.env` file.
 4. Run migrations: `php artisan migrate`
